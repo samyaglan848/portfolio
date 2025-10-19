@@ -1222,7 +1222,10 @@ bottom: 35%;
     .footer .box-icons{
         gap: 10px;
     }
-
+    .hero-vid-box video{
+        display: none;
+        
+    }
 
 }
 
